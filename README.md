@@ -12,11 +12,6 @@
 - 服务端内置 AI 玩家，适合快速凑桌。
 - 本地 TCP 通信，默认只监听 `127.0.0.1`。
 
-项目路径：
-
-```bash
-/Users/zz/echo/git_project/texas_holdem_cli
-```
 
 核心文件：
 
@@ -39,11 +34,6 @@ python3 --version
 
 ## 3. 快速开始
 
-进入项目目录：
-
-```bash
-cd "/Users/zz/echo/git_project/texas_holdem_cli"
-```
 
 ### 3.1 一名真人 + 两名独立 AI agent
 
